@@ -1,5 +1,5 @@
 # DevFinder - find devs around your area
-# Semana OmniStack 10.0 da Rocketseat :rocket:
+# Semana OmniStack 10.0 Rocketseat :rocket:
 
 ## :rocket: Tecnologies in this project
 - [Node.js](https://nodejs.org/en/)
