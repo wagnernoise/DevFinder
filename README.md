@@ -40,4 +40,4 @@ This project was done following the Grand Master [Diego Fernandes](https://githu
 
 ## :memo: Licence
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+MIT [LICENSE](LICENSE.md).
