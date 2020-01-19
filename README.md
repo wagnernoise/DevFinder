@@ -1,7 +1,7 @@
 # DevFinder - find devs around your area
 # Semana OmniStack 10.0 Rocketseat :rocket:
 
-## :rocket: Tecnologies in this project
+## :rocket: Technologies used in this project
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
