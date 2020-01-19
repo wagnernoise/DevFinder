@@ -12,6 +12,12 @@
 DevFinder is a project to connect Devs in a 10 km range.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Web version:
+![Web](assets/web.png)
+
+Mobile version:
+![Mobile](assets/mobile.png)
 ## Available Scripts
 
 In the project directory, you can run:
